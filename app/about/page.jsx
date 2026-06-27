@@ -50,7 +50,7 @@ export default function AboutPage() {
 
                 <div className="relative text-center px-6">
                     <h1 className="text-5xl md:text-6xl font-bold text-yellow-500">
-                        About MGR Restaurant Moradabad
+                        About MGR Restaurant
                     </h1>
                     <p className="mt-4 text-lg text-gray-300">
                         Taste • Quality • Hospitality
